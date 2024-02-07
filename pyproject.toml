@@ -23,7 +23,7 @@ pandas = {version = "^2.1.1", extras=["gcp"]}
 etils = {version = "^1.5.0", extras = ["epath"]}
 ratelimiter = "^1.2.0.post0"
 SPARQLWrapper = "^2.0.0"
-scenic = {git = "https://github.com/google-research/scenic.git"}
+scenic = {git = "https://github.com/IamJeffG/scenic.git@204b073f44bea8a2f78e45a3646c514ad5673c0d"}
 tensorflow-hub = "^0.14.0"
 imageio = "^2.5.0"
 matplotlib = "^3.6.1"
